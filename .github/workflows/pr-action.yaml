@@ -1,6 +1,6 @@
 name: pr-action
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on: 
+on:
   pull_request:
     branches:
       - main
